@@ -1,0 +1,24 @@
+.cockpit{
+    font-size: 20px;
+    font-weight: bold;
+    margin: auto;
+    padding: auto
+}
+
+.button{
+    width: 100px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border: 0ch red solid;
+    border-radius: 15px;
+    padding: 5px;
+    background-color:red;
+    color: #000;
+}
+
+@media(min-width:500px) {
+    .cockpit{
+        width: 450px
+    }
+}

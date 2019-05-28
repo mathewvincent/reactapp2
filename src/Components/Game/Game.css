@@ -1,0 +1,13 @@
+.game{
+    margin: 100px ;
+    color: rgb(41, 36, 36);
+    border: 2px solid gray;
+    padding: 30px 30px 100px 20px;
+    background-color: aqua;
+    border-radius: 15px;
+}
+
+.rules{
+    text-align: left;
+    color: gray;
+}
